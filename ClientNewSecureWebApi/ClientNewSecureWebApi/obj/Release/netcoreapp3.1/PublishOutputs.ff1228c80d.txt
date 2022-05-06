@@ -1,0 +1,17 @@
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Settings.job
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\ClientNewSecureWebApi.exe
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\ClientNewSecureWebApi.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\ClientNewSecureWebApi.deps.json
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\ClientNewSecureWebApi.runtimeconfig.json
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\ClientNewSecureWebApi.pdb
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.Configuration.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.Configuration.Binder.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.Configuration.Json.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.FileProviders.Physical.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Extensions.Primitives.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\Microsoft.Identity.Client.dll
+C:\AllInOneProject\SecurewWebAPI\ClientNewSecureWebApi\ClientNewSecureWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\ClientNewSecureWebApi\System.Text.Json.dll
